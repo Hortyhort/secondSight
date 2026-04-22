@@ -1,0 +1,6 @@
+{
+  "name": "Second Sight",
+  "description": "Camera-first AI app that tells you what matters in the real world — and what to do next.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
